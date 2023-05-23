@@ -1,0 +1,7 @@
+1,CompBook,1
+2,Aspire,2
+3,TUF,3
+4,VivoBook,3
+5,Orion,4
+6,Pavilion,5
+7,Omen,5

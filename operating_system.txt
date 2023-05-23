@@ -1,0 +1,5 @@
+1,Windows 10
+2,Linux
+3,Windows 10 Home
+4,DOS
+5,Windows 8
