@@ -41,7 +41,7 @@ with open ("series.txt",'r') as f:
         data.append(tuple([int(item[0]), item[1], int(item[2])]))
         print(item)
 print(data)
-
+print(1)
 cursor.executemany("INSERT INTO Series VALUES(?,?,?)", data)
 conn.commit()
 
